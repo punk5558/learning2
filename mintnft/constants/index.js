@@ -235,6 +235,13 @@ export const abi =
   },
   {
     "inputs": [],
+    "name": "mint",
+    "outputs": [],
+    "stateMutability": "payable",
+    "type": "function"
+  },
+  {
+    "inputs": [],
     "name": "name",
     "outputs": [
       {
